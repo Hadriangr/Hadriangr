@@ -1,6 +1,6 @@
 👋 Hola, soy Hadrian | Hi, I'm Hadrian!
 ---
-💻 Carrera: Informático | Career: IT Professional
+💻 Carrera: Informático | Career: Developer
 
 🚀 Actualmente aprendiendo DevOps | Currently learning DevOps
 
