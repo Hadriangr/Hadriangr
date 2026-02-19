@@ -8,7 +8,7 @@
 
 📌 Pronombres: El | Pronouns: he/him
 
-🐶 Familia: Tengo dos perritos | Family: I have two dogs
+🐶 Familia: Tengo dos perritos y una hermosa novia. | Family: I have two dogs and a beautiful girlfriend.
 
 ⚙️ Interesado en automatización y desarrollo de programas | Interested in automation and software development
 
